@@ -1,0 +1,22 @@
+# YOLOv11 🚀 by Ultralytics, GPL-3.0 license
+
+
+path: /home/ubuntu/yy/testv11/datasets/Visdrone2019  # dataset root dir
+train:  /home/ubuntu/yy/testv11/datasets/Visdrone2019/train/images
+val:  /home/ubuntu/yy/testv11/datasets/Visdrone2019/val/images
+test:  # test images (optional)
+
+nc: 10
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
+
+
+
+
+
+
+
+
+
+
+
+

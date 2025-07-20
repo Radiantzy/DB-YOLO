@@ -1,0 +1,28 @@
+# YOLOv11 🚀 by Ultralytics, GPL-3.0 license
+
+
+
+path: G:\testv11\testv11\datasets\SIMD # dataset root dir
+train: G:\testv11\testv11\datasets\SIMD\train
+val:  G:\testv11\testv11\datasets\SIMD\val
+
+
+test:  # test images (optional)
+
+# Classes
+nc: 15  # number of classes
+names: ['car','truck','van','long vehicle','bus','airliner','propeller aircraft','trainer aircraft','chartered aircraft',
+  'fighter aircraft','others','stair truck','pushback truck','helicopter','boat']# class names
+
+
+
+
+
+
+
+
+
+
+
+
+

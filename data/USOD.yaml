@@ -1,0 +1,15 @@
+# YOLOv11 🚀 by Ultralytics, GPL-3.0 license
+
+
+
+path: /home/ubuntu/yy/testv11/datasets/vehicle  # dataset root dir
+train:  /home/ubuntu/yy/testv11/datasets/vehicle/images/train2017
+val:  /home/ubuntu/yy/testv11/datasets/vehicle/images/val2017
+
+
+test:  # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: ['vehicle']  # class names
+
