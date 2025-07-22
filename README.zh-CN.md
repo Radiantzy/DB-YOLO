@@ -37,3 +37,5 @@ datasets/
 ```angular2html
 python train.py --data your_dataset_config.yaml
 ```
+5. 引文格式
+Q. Zhu, Y. Zhu, X. Lv, W. Chen, Enhancing Small Object Detection in Remote Sensing: A Lightweight Dual-Branch YOLO Framework, (2025).

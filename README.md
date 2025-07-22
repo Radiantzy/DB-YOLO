@@ -38,8 +38,14 @@ datasets/
 
 3. Install dependencies
 The environment is based on the official YOLOv11 library installation. For details, see https://github.com/ultralytics/ultralytics
+```angular2html
+Install the ultralytics package, including all requirements, in a Python>=3.8 environment with PyTorch>=1.8.
+pip install ultralytics
 
+```
 4. Run the program
 ```
 python train.py --data your_dataset_config.yaml
 ```
+5. Citation Format
+Q. Zhu, Y. Zhu, X. Lv, W. Chen, Enhancing Small Object Detection in Remote Sensing: A Lightweight Dual-Branch YOLO Framework, (2025).
