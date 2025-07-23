@@ -38,4 +38,4 @@ datasets/
 python train.py --data your_dataset_config.yaml
 ```
 5. 引文格式
-Q. Zhu, Y. Zhu, X. Lv, W. Chen, Enhancing Small Object Detection in Remote Sensing: A Lightweight Dual-Branch YOLO Framework, (2025).
+Q. Zhu, Y. Zhu, X. Lv, W. Chen, Enhancing Small Object Detection in Remote Sensing: A Lightweight Dual-Branch YOLO Framework,已提交至《视觉计算机》杂志（2025 年）。

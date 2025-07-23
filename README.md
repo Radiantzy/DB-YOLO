@@ -48,4 +48,4 @@ pip install ultralytics
 python train.py --data your_dataset_config.yaml
 ```
 5. Citation Format
-Q. Zhu, Y. Zhu, X. Lv, W. Chen, Enhancing Small Object Detection in Remote Sensing: A Lightweight Dual-Branch YOLO Framework, (2025).
+Q. Zhu, Y. Zhu, X. Lv, W. Chen, Enhancing Small Object Detection in Remote Sensing: A Lightweight Dual-Branch YOLO Framework, submitted to The Visual Computer, (2025).
